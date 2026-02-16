@@ -1,7 +1,7 @@
-# Astro Custom: Basics
+# Astro Custom: Basics + sass + autoprefixer
 
 ```sh
-bun create unibox/template-astro-basic
+bun create unibox/template-astro-sass-autoprefixer
 ```
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
