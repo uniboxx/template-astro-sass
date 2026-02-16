@@ -1,0 +1,25 @@
+{
+  "name": "03",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.16.15",
+    "astro-icon": "^1.1.5",
+    "sass": "^1.97.3"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.2.3",
+    "autoprefixer": "^10.4.24"
+  },
+  "browserslist": [
+    ">5%",
+    "defaults and fully supports es6-module",
+    "maintained node versions"
+  ]
+}
