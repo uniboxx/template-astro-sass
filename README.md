@@ -1,7 +1,7 @@
 # Astro Custom: Basics + sass + postcss-preset-env plugin
 
 ```sh
-bun create unibox/template-astro-sass-autoprefixer
+bun create unibox/template-astro-sass
 ```
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
