@@ -1,4 +1,4 @@
-# Astro Custom: Basics + sass + autoprefixer
+# Astro Custom: Basics + sass + postcss-preset-env plugin
 
 ```sh
 bun create unibox/template-astro-sass-autoprefixer
