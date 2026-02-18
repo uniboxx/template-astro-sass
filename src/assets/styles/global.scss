@@ -75,25 +75,3 @@ menu {
   background: $color-primary-400;
   color: $color-neutral-100;
 }
-
-.selector {
-  transform: translate(0);
-  .nested {
-    mask: none;
-  }
-}
-a {
-  color: rgb(0 0 100% / 90%);
-
-  &:hover {
-    color: rebeccapurple;
-  }
-
-  > span {
-    color: color-mix(in oklch, cyan, green 25%);
-  }
-}
-
-:is(input, button):is(:hover, :focus) {
-  color: oklch(40% 0.268735435 34.568626);
-}
