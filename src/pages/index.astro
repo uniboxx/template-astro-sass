@@ -8,5 +8,12 @@ import { Icon } from 'astro-icon/components';
 </Layout>
 
 <style lang="scss">
-  @use '@assets/styles/variables.scss' as *;
+  @use 'src/assets/styles/variables.scss' as *;
+  h1 {
+    display: flex;
+    align-items: center;
+    .icon {
+      font-size: 2rem;
+    }
+  }
 </style>
